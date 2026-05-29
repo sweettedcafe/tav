@@ -1,0 +1,91 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+1,Phones Model 1,Technology,Phones,208.78,302.65
+2,Phones Model 2,Technology,Phones,38.13,56.9
+3,Phones Model 3,Technology,Phones,182.48,349.64
+4,Phones Model 4,Technology,Phones,333.26,469.92
+5,Phones Model 5,Technology,Phones,364.65,831.42
+6,Phones Model 6,Technology,Phones,354.43,856.5
+7,Phones Model 7,Technology,Phones,168.88,299.89
+8,Phones Model 8,Technology,Phones,152.71,269.29
+9,Phones Model 9,Technology,Phones,37.23,58.43
+10,Phones Model 10,Technology,Phones,130.88,185.71
+11,Laptops Model 1,Technology,Laptops,287.31,489.1
+12,Laptops Model 2,Technology,Laptops,62.69,84.38
+13,Laptops Model 3,Technology,Laptops,367.37,685.86
+14,Laptops Model 4,Technology,Laptops,333.29,736.77
+15,Laptops Model 5,Technology,Laptops,190.3,387.91
+16,Laptops Model 6,Technology,Laptops,362.81,479.93
+17,Laptops Model 7,Technology,Laptops,90.18,133.41
+18,Laptops Model 8,Technology,Laptops,376.39,764.32
+19,Laptops Model 9,Technology,Laptops,172.19,384.23
+20,Laptops Model 10,Technology,Laptops,98.87,142.99
+21,Accessories Model 1,Technology,Accessories,99.18,204.98
+22,Accessories Model 2,Technology,Accessories,251.01,345.23
+23,Accessories Model 3,Technology,Accessories,335.49,637.36
+24,Accessories Model 4,Technology,Accessories,216.74,446.13
+25,Accessories Model 5,Technology,Accessories,232.14,501.95
+26,Accessories Model 6,Technology,Accessories,120.05,156.29
+27,Accessories Model 7,Technology,Accessories,144.36,286.53
+28,Accessories Model 8,Technology,Accessories,78.99,166.03
+29,Accessories Model 9,Technology,Accessories,211.78,366.96
+30,Accessories Model 10,Technology,Accessories,381.59,745.21
+31,Chairs Model 1,Furniture,Chairs,315.63,602.58
+32,Chairs Model 2,Furniture,Chairs,13.03,30.59
+33,Chairs Model 3,Furniture,Chairs,22.2,39.17
+34,Chairs Model 4,Furniture,Chairs,152.45,334.9
+35,Chairs Model 5,Furniture,Chairs,146.05,201.71
+36,Chairs Model 6,Furniture,Chairs,100.24,209.35
+37,Chairs Model 7,Furniture,Chairs,45.95,91.82
+38,Chairs Model 8,Furniture,Chairs,303.89,443.71
+39,Chairs Model 9,Furniture,Chairs,144.16,245.97
+40,Chairs Model 10,Furniture,Chairs,258.9,594.55
+41,Tables Model 1,Furniture,Tables,275.45,682.28
+42,Tables Model 2,Furniture,Tables,194.02,294.66
+43,Tables Model 3,Furniture,Tables,58.27,125.82
+44,Tables Model 4,Furniture,Tables,377.72,507.8
+45,Tables Model 5,Furniture,Tables,84.63,190.36
+46,Tables Model 6,Furniture,Tables,354.89,595.76
+47,Tables Model 7,Furniture,Tables,127.48,226.64
+48,Tables Model 8,Furniture,Tables,327.09,611.03
+49,Tables Model 9,Furniture,Tables,19.47,40.43
+50,Tables Model 10,Furniture,Tables,118.01,275.5
+51,Bookcases Model 1,Furniture,Bookcases,23.88,49.83
+52,Bookcases Model 2,Furniture,Bookcases,112.92,255.11
+53,Bookcases Model 3,Furniture,Bookcases,177.6,316.13
+54,Bookcases Model 4,Furniture,Bookcases,178.7,437.42
+55,Bookcases Model 5,Furniture,Bookcases,138.92,211.74
+56,Bookcases Model 6,Furniture,Bookcases,278.37,484.59
+57,Bookcases Model 7,Furniture,Bookcases,319.93,518.31
+58,Bookcases Model 8,Furniture,Bookcases,37.63,68.09
+59,Bookcases Model 9,Furniture,Bookcases,175.09,436.7
+60,Bookcases Model 10,Furniture,Bookcases,76.28,126.05
+61,Paper Model 1,Office Supplies,Paper,45.53,77.11
+62,Paper Model 2,Office Supplies,Paper,121.78,223.48
+63,Paper Model 3,Office Supplies,Paper,288.48,432.71
+64,Paper Model 4,Office Supplies,Paper,180.34,331.2
+65,Paper Model 5,Office Supplies,Paper,292.09,699.24
+66,Paper Model 6,Office Supplies,Paper,247.87,451.6
+67,Paper Model 7,Office Supplies,Paper,257.59,579.52
+68,Paper Model 8,Office Supplies,Paper,27.66,58.24
+69,Paper Model 9,Office Supplies,Paper,165.45,316.95
+70,Paper Model 10,Office Supplies,Paper,301.21,449.4
+71,Binders Model 1,Office Supplies,Binders,17.3,40.11
+72,Binders Model 2,Office Supplies,Binders,272.85,498.17
+73,Binders Model 3,Office Supplies,Binders,54.86,86.85
+74,Binders Model 4,Office Supplies,Binders,259.84,450.71
+75,Binders Model 5,Office Supplies,Binders,380.04,508.82
+76,Binders Model 6,Office Supplies,Binders,65.61,120.72
+77,Binders Model 7,Office Supplies,Binders,151.53,277.71
+78,Binders Model 8,Office Supplies,Binders,35.37,51.83
+79,Binders Model 9,Office Supplies,Binders,149.95,251.51
+80,Binders Model 10,Office Supplies,Binders,115.08,282.25
+81,Pens Model 1,Office Supplies,Pens,15.24,23.21
+82,Pens Model 2,Office Supplies,Pens,209.51,502.04
+83,Pens Model 3,Office Supplies,Pens,51.52,114.89
+84,Pens Model 4,Office Supplies,Pens,283.09,440.91
+85,Pens Model 5,Office Supplies,Pens,246.69,526.13
+86,Pens Model 6,Office Supplies,Pens,399.46,615.25
+87,Pens Model 7,Office Supplies,Pens,58.61,81.4
+88,Pens Model 8,Office Supplies,Pens,73.2,157.82
+89,Pens Model 9,Office Supplies,Pens,398.92,906.59
+90,Pens Model 10,Office Supplies,Pens,387.19,961.74
